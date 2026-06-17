@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1,TRT 1 Sesli Ozel Yayin (Guncel)
+#EXTVLCOPT:input-slave=https://tv-trt1.medya.trt.com.tr/master.m3u8
+http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465858
